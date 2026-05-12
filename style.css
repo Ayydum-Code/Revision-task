@@ -1,0 +1,15 @@
+header {
+    max-width: 80vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hero-image {
+    width: 50%;
+    border-radius: 5px;
+
+}
+
+body {
+    background-color: bisque;
+}
